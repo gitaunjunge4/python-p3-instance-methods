@@ -9,3 +9,11 @@ class Dog:
 
     def sit(self):
         print("The dog is sitting.")
+
+Bruno = Dog()
+Bruno.bark()
+Bruno.sit()
+
+Pepsi = Dog()
+Pepsi.bark()
+Pepsi.sit()
